@@ -12,7 +12,7 @@ planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 planeteer_calls.map{|item|item.caplitalize}
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls()
   # Your code here
 end
 
